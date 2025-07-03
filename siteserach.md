@@ -33,7 +33,16 @@ It helps users find relevant content quickly. Instead of just matching exact key
 
 ## 🔁 How They Work Together (Flowchart)
 
-
+[Admin creates content in XM Cloud CMS]
+|
+v
+[Content gets indexed by Sitecore Search engine]
+|
+v
+[User searches something on the frontend (React etc.)]
+|
+v
+[Search API returns smart, relevant results]
 ---
 
 ## 💡 Where Can This Be Useful?
