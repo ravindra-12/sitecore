@@ -65,5 +65,3 @@ Then Sitecore XM Cloud helps manage all content centrally, and Sitecore Search i
 From what I’ve learned so far, both Sitecore XM Cloud and Sitecore Search are powerful tools for modern web development — especially for scalable, multi-language, or dynamic websites.
 
 If you're exploring headless CMS and want smart search without much backend load, then this stack is worth looking into.
-
-I’m still learning it, but the concepts are quite clear and exciting.
