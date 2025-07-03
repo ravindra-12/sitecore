@@ -33,6 +33,9 @@ It helps users find relevant content quickly. Instead of just matching exact key
 
 ## 🔁 How They Work Together (Flowchart)
 
+
+---
+
 [Admin creates content in XM Cloud CMS]
 |
 v
@@ -43,7 +46,6 @@ v
 |
 v
 [Search API returns smart, relevant results]
----
 
 ## 💡 Where Can This Be Useful?
 
